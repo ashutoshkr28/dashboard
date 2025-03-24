@@ -76,7 +76,7 @@ Ensure you have the following installed:
 
  Deployment
 - The project can be deployed using **Vercel**.
-- https://financial-dashboard-pied.vercel.app/
+- [https://financial-dashboard-pied.vercel.app/](https://dashboard-financial-jade.vercel.app/)
   
 ---
  Ashutosh Kumar  
